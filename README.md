@@ -6,3 +6,7 @@
 ## HTML
 ## CSS
 ## JavaScript
+
+## 経緯
+- JavaScriptの復習用に行ったもの。
+ 及び、新たな構文を学ぶため。
